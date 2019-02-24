@@ -1,0 +1,51 @@
+.formulario{
+	padding-left:40px;
+	margin-top:20px;
+	width:710px;
+}
+
+.formulario form{
+	color:#927b53;
+	font-size:16px;
+	font-family:"Comic Sans MS", cursive;
+
+}
+
+.formulario .label{
+	float:right;
+}
+.formulario .texto{
+	width:240px;
+}
+.formulario .botones{
+	color:#927b53;
+	font-size:15px;
+	font-family:"Comic Sans MS";
+	padding:5px;
+	width:170px;	
+		
+}
+.formulario .centro{
+text-align:center;
+margin-top:5px;
+}
+.formulario legend{
+	color:#927b53;
+	font-size:25px;
+	font-family:"Comic Sans MS", cursive;	
+
+}
+.formulario td{
+	padding:5px;
+}
+.formulario td img{
+	padding-left:50px;
+}
+.formulario table{
+	padding-left:10px;
+}
+.formulario fieldset{
+	border-color:#ab9c7e;
+}
+
+class="label"

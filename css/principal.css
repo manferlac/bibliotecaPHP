@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.notificacion{
+	
+}
+body{
+	background-color:#f2eeda;
+	margin:0px;
+	padding:0px;
+}
+.general{
+	margin:auto;
+	width:800px;
+	height:auto;
+}
+.cabezera{
+	background-image:url(img/cabecera3.png);
+	width:800px;
+	height:229px;
+}
+
+.cuerpo{
+	width:800px;
+	height:auto !important;
+	background-image:url(img/cuerpo.png);
+	background-repeat:repeat-y;
+	padding-bottom:10px;
+}
+.pie{
+	width:800px;
+	height:12px;
+	background-image:url(img/pie.png);
+	font-size:11px;
+	color:#f9f1c5;
+	padding-left:50px;
+	background-repeat:no-repeat;
+	
+}
